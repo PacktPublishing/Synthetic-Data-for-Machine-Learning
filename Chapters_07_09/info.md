@@ -9,7 +9,7 @@ To train and test the ML model, run "main.py".
 
 **Trained model**
 
-You can find the pre-trained version in the "Checkpoints" folder.
+You can find the trained version in the "Checkpoints" folder.
 
 **Results**
 
