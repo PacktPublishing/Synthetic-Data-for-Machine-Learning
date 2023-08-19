@@ -1,0 +1,74 @@
+/home/kerim/anaconda3/envs/SemanticSegmentation/bin/python /home/kerim/PycharmProjects/SemanticSegmentation/Book Code/A01_Main.py
+The model will be running on cuda:0 device
+-------------------------------------------
+Epoch 1, train loss: 44.514
+The validation accuracy on the valid set (synth + real) is 59 %
+Best validation accuracy on the valid set (synth + real) is 59 %
+-------------------------------------------
+Epoch 2, train loss: 41.133
+The validation accuracy on the valid set (synth + real) is 70 %
+Best validation accuracy on the valid set (synth + real) is 70 %
+-------------------------------------------
+Epoch 3, train loss: 35.331
+The validation accuracy on the valid set (synth + real) is 81 %
+Best validation accuracy on the valid set (synth + real) is 81 %
+-------------------------------------------
+Epoch 4, train loss: 31.588
+The validation accuracy on the valid set (synth + real) is 69 %
+-------------------------------------------
+Epoch 5, train loss: 26.955
+The validation accuracy on the valid set (synth + real) is 66 %
+-------------------------------------------
+Epoch 6, train loss: 24.363
+The validation accuracy on the valid set (synth + real) is 79 %
+-------------------------------------------
+Epoch 7, train loss: 21.602
+The validation accuracy on the valid set (synth + real) is 77 %
+-------------------------------------------
+Epoch 8, train loss: 22.763
+The validation accuracy on the valid set (synth + real) is 77 %
+-------------------------------------------
+Epoch 9, train loss: 20.598
+The validation accuracy on the valid set (synth + real) is 86 %
+Best validation accuracy on the valid set (synth + real) is 86 %
+-------------------------------------------
+Epoch 10, train loss: 17.794
+The validation accuracy on the valid set (synth + real) is 77 %
+-------------------------------------------
+Epoch 11, train loss: 16.711
+The validation accuracy on the valid set (synth + real) is 77 %
+-------------------------------------------
+Epoch 12, train loss: 16.607
+The validation accuracy on the valid set (synth + real) is 71 %
+-------------------------------------------
+Epoch 13, train loss: 13.858
+The validation accuracy on the valid set (synth + real) is 69 %
+-------------------------------------------
+Epoch 14, train loss: 10.626
+The validation accuracy on the valid set (synth + real) is 72 %
+-------------------------------------------
+Epoch 15, train loss: 10.332
+The validation accuracy on the valid set (synth + real) is 77 %
+-------------------------------------------
+Epoch 16, train loss: 11.103
+The validation accuracy on the valid set (synth + real) is 79 %
+-------------------------------------------
+Epoch 17, train loss: 10.505
+The validation accuracy on the valid set (synth + real) is 72 %
+-------------------------------------------
+Epoch 18, train loss: 5.397
+The validation accuracy on the valid set (synth + real) is 72 %
+-------------------------------------------
+Epoch 19, train loss: 8.786
+The validation accuracy on the valid set (synth + real) is 64 %
+-------------------------------------------
+Epoch 20, train loss: 7.660
+The validation accuracy on the valid set (synth + real) is 74 %
+Finished Training
+The best validation accuracy was 86 %
+The model in path %s will be tested Checkpoints/BestModel.pth
+The test accuracy on the test set (real) is 80 %
+Ground truth:     1     1     0     1     0     1     0     0
+Predicted:        1     1     1     1     1     1     0     0
+
+Process finished with exit code 0
