@@ -1,8 +1,8 @@
-# The Statistics and Machine Learning with R Workshop
+# Synthetic Data for Machine Learning
 
 <a href="https://www.packtpub.com/product/synthetic-data-for-machine-learning/9781803245409?utm_source=github&utm_medium=repository&utm_id=9781803245409"><img src="https://content.packt.com/B18494/cover_image_small.jpg" alt="The Statistics and Machine Learning with R Workshop" height="256px" align="right"></a>
 
-This is the code repository for [The Statistics and Machine Learning with R Workshop](https://www.packtpub.com/product/synthetic-data-for-machine-learning/9781803245409?utm_source=github&utm_medium=repository&utm_id=9781803245409), published by Packt.
+This is the code repository for [Synthetic Data for Machine Learning](https://www.packtpub.com/product/synthetic-data-for-machine-learning/9781803245409?utm_source=github&utm_medium=repository&utm_id=9781803245409), published by Packt.
 
 **Revolutionize your approach to machine learning with this comprehensive conceptual guide**
 
