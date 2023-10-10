@@ -17,7 +17,7 @@ This book covers the following exciting features:
 * Understand synthetic data challenges and emerging research topics
 * Apply synthetic data to your ML projects successfully
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0BVMRHBNN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1803245409) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
